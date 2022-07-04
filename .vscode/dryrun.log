@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/shenmu/DevStuff/Cpp/hello_world'
+make: Leaving directory '/home/shenmu/DevStuff/Cpp/hello_world'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
